@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="about me" content="Brief Description About Me">
+    <meta name="author" content="Christian Gaertner">
+    <title>Christian Gaertner's Assignments</title>
+
+    <style>
+      ul.list-centered {
+      list-style-position: inside;
+      list-style-type: square;
+      position: relative;
+      left:-30px;
+      font-family: Georgia;
+      }
+      .article-body {
+      margin: 30% 30%;
+      text-align:center;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+      }
+      
+    </style>
+  </head>
+
+  <body>
+    <article class="article-body">
+      <h1 class="header-center">CS 213 Assignments</h1>
+      <hr>
+      <h2 class="header-center">Christian Gaertner's Assignments</h2>
+      <ul class="list-centered">
+        <!-- input the links and along with the names of the course I will be taking -->
+        <li> <a href="assign2.html"  target="_blank">assignment #02</a></li>
+        <li> <a href="assign3.html"  target="_blank">assignment #03</a></li>
+        <li> <a href="assign4.html"  target="_blank">assignment #04</a></li>
+        <li> <a href="assign5.html"  target="_blank">assignment #05</a></li>
+        <li> <a href="assign6.html"  target="_blank">assignment #06</a></li>
+        <li> <a href="assign7.html"  target="_blank">assignment #07</a></li>
+        <li> <a href="assign8.html"  target="_blank">assignment #08</a></li>
+        <li> <a href="assign9.html"  target="_blank">assignment #09</a></li>
+        <li> <a href="assign10.html" target="_blank">assignment #10</a></li>
+        <li> <a href="assign11.html" target="_blank">assignment #11</a></li>
+        <li> <a href="assign12.html" target="_blank">assignment #12</a></li>
+        <li> <a href="assign13.html" target="_blank">assignment #13</a></li>
+      </ul>
+
+    </article>
+  </body>
+
+</html>
