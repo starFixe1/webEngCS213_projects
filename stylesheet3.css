@@ -10,7 +10,10 @@ p {
   border-radius: 15px;                                     
   background: #73AD21;                                     
   padding: 20px;                                           
-  height: 70px;     
+  height: 70px;   
+  font-family: monospace;
+  font-size: 14px;
   color: white;
+  
 }          
 

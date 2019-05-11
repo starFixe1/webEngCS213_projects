@@ -14,7 +14,13 @@ div {
 
 li {
     border-style: double;
+    list-style-position: inside;
     text-transform: uppercase;
     font-weight: bold;
     padding: 5px;
+}
+
+p {
+    font-family: georgia;
+    
 }
