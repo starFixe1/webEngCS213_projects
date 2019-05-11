@@ -1,0 +1,20 @@
+body {
+    background-image: linear-gradient(aquamarine, rgb(233, 240, 199));
+}
+h1 {
+    color: hsl(304, 55%, 33%);
+}
+
+div {
+    padding: 0.2em;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+li {
+    border-style: double;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 5px;
+}
