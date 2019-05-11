@@ -12,3 +12,8 @@ div {
     justify-content: center;
 }
 
+li {
+    border-style: dashed;
+    text-transform: uppercase;
+    font-weight: bold;
+}
