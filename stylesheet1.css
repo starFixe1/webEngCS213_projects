@@ -1,0 +1,25 @@
+body {
+    background-color: #5f9ea0;
+}
+
+h1 {
+    color: #4b0082;
+    font-size: 23px;
+    font-family: algerian, fantasy;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
+
+p {
+    color: #f8f8ff;
+    font-size: 12px;
+    font-family: "times new roman", serif;
+}
+
+a {
+    color: #7fff00;
+    font-style: italic;
+    font-family: "times new roman", serif;
+    text-decoration: underline;
+}
